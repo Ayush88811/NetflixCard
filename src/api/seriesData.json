@@ -1,0 +1,25 @@
+[
+    {
+        "name": "Lovely Runner",
+        "id": "lovely-runner",
+        "img_url": "defend.jpg",
+        "rating": "9.8",
+        "genre": "this is thhe name",
+        "desciption": ["Im Sol travels back in time to prevent the tragic fate of her favorite star, Ryu Sun Jae"],
+        "cast": ["Kim Hye Yoon", "Byeon Woo Seaok", "Song Geon Hee"],
+        "watch_url": ""
+    },
+    
+    {
+        "name": "Lovely Runner",
+        "id": "lovely-runner",
+        "img_url": "defend.jpg",
+        "rating": "9",
+        "genre": "This is the netflix card",
+        "desciption": ["Im Sol travels back in time to prevent the tragic fate of her favorite star, Ryu Sun Jae"],
+        "cast": ["Kim Hye Yoon", "Byeon Woo Seaok", "Song Geon Hee"],
+        "watch_url": ""
+        
+    }
+
+]
