@@ -1,23 +1,15 @@
- import React from 'react'
- import Jay from './jay'
- import Hello from './hello';
- import { Practices } from './practices'
-import NetflixSeries from './components/NetflixSeries';
-// import { SeriesCard } from './components/SeriesCard';
+import "./components/EV.css";
 
- function App() {
-   return (
-     <div>
-   {/* <Jay/> */}
-<br/>
-<Hello/>
-{/* <Practices/> */}
-<NetflixSeries/>
-{/* <SeriesCard/> */}
+//  import { LiftingState } from "./components/LiftStateUp";
+// import { ToggleSwitch } from "./projects/ToggleSwitch/ToggleSwitch";
+import { Todo } from "./projects/ToggleSwitch/Todo/Todo";
 
-     </div>
-   )
- }
+
+
+
+ export const App=()=> {
+  return <section>{<Todo />}</section>;
+ };
  
  export default App
  

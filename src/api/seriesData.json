@@ -1,22 +1,70 @@
 [
     {
-        "name": "Lovely Runner",
-        "id": "lovely-runner",
+        "name": "Protectors of Earth",
+        "id": "Avengers",
         "img_url": "defend.jpg",
-        "rating": "9.8",
+        "rating": "8.7",
         "genre": "this is thhe name",
-        "desciption": ["Im Sol travels back in time to prevent the tragic fate of her favorite star, Ryu Sun Jae"],
+        "description": ["Im Sol travels back in time to prevent the tragic fate of her favorite star, Ryu Sun Jae"],
         "cast": ["Kim Hye Yoon", "Byeon Woo Seaok", "Song Geon Hee"],
         "watch_url": ""
     },
     
     {
-        "name": "Lovely Runner",
-        "id": "lovely-runner",
-        "img_url": "defend.jpg",
-        "rating": "9",
+        "name": "Money heist",
+        "id": "webseries",
+        "img_url": "money heist.png",
+        "rating": "8.2",
         "genre": "This is the netflix card",
-        "desciption": ["Im Sol travels back in time to prevent the tragic fate of her favorite star, Ryu Sun Jae"],
+        "description": ["Im Sol travels back in time to prevent the tragic fate of her favorite star, Ryu Sun Jae"],
+        "cast": ["Kim Hye Yoon", "Byeon Woo Seaok", "Song Geon Hee"],
+        "watch_url": ""
+        
+    },
+
+     {
+        "name": "Squid Game",
+        "id": "squid",
+        "img_url": "squid game.jpg",
+        "rating": "8.7",
+        "genre": "This is the netflix card",
+        "description": ["Im Sol travels back in time to prevent the tragic fate of her favorite star, Ryu Sun Jae"],
+        "cast": ["Kim Hye Yoon", "Byeon Woo Seaok", "Song Geon Hee"],
+        "watch_url": ""
+        
+    },
+    
+     {
+        "name": "SpiderMan",
+        "id": "squid",
+        "img_url": "spiderman.jpeg",
+        "rating": "8.3",
+        "genre": "This is the netflix card",
+        "description": ["Im Sol travels back in time to prevent the tragic fate of her favorite star, Ryu Sun Jae"],
+        "cast": ["Kim Hye Yoon", "Byeon Woo Seaok", "Song Geon Hee"],
+        "watch_url": ""
+        
+    },
+     {
+        "name": "Loki",
+        "id": "squid",
+        "img_url": "public/loki.webp",
+        "rating": "8.6",
+        "genre": "This is the netflix card",
+        "description": ["Im Sol travels back in time to prevent the tragic fate of her favorite star, Ryu Sun Jae"],
+        "cast": ["Kim Hye Yoon", "Byeon Woo Seaok", "Song Geon Hee"],
+        "watch_url": ""
+        
+    },
+
+    
+     {
+        "name": "Games Of Throne",
+        "id": "squid",
+        "img_url": "got.png",
+        "rating": "9.3",
+        "genre": "This is the netflix card",
+        "description": ["Im Sol travels back in time to prevent the tragic fate of her favorite star, Ryu Sun Jae"],
         "cast": ["Kim Hye Yoon", "Byeon Woo Seaok", "Song Geon Hee"],
         "watch_url": ""
         
