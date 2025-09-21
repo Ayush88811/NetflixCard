@@ -1,15 +1,13 @@
 import "./components/EV.css";
-
-//  import { LiftingState } from "./components/LiftStateUp";
-// import { ToggleSwitch } from "./projects/ToggleSwitch/ToggleSwitch";
+import ShortCircuitExample from "./components/ShortCircuit";
 import { Todo } from "./projects/ToggleSwitch/Todo/Todo";
 
 
 
 
  export const App=()=> {
-  return <section>{<Todo />}</section>;
+  return <section>{<ShortCircuitExample />}</section>;
  };
  
- export default App
+ export default App;
  
