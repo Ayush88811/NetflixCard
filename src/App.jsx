@@ -1,12 +1,11 @@
-import "./components/EV.css";
-import ShortCircuitExample from "./components/ShortCircuit";
-import { Todo } from "./projects/ToggleSwitch/Todo/Todo";
+
+import { Counter } from "./components/hooks/useState";
 
 
 
 
  export const App=()=> {
-  return <section>{<ShortCircuitExample />}</section>;
+  return<Counter/>;
  };
  
  export default App;
