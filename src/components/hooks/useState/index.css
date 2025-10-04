@@ -33,7 +33,7 @@ p {
 
 /* Labels */
 label {
-  display: block;
+  display: flex;
   margin-bottom: 5px;
   font-weight: bold;
   color: #333;
